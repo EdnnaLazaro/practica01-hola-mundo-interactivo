@@ -60,8 +60,7 @@ fun SecondScreen(
         ) {
 
             Text(
-                text = "Texto recibido:",
-                fontSize = 18.sp
+                text = "¡Hola, $mensaje!", fontSize = 24.sp
             )
 
             Spacer(
